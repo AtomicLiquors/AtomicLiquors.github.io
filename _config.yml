@@ -1,6 +1,6 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: Midnight Coder's Lounge
+description: StackOverFlow 명문과 해외칼럼을 소개합니다.
 url: 'https://https//atomicliquors.github.io'
 avatar: /avatar.jpeg
 paginate: 5
@@ -29,16 +29,15 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: AtomicLiquors
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: 최효빈
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/AtomicLiquors
 google_site_verification: xxxxx
-lang: en
+lang: kr
 
 sass:
   sass_dir: _sass
@@ -54,6 +53,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: 최효빈
+  url: https://github.com/AtomicLiquors/
+  email: gyqls234@gmail.com
